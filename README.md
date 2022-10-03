@@ -4,6 +4,16 @@
 - 💬 Ask me about JS and components
 - 😄 Pronouns: He/Him
 
+### Contacts
+
+<div>
+  <a href="https://linkedin.com/in/ramon-pilon" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instragram.com/ramones.bp" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
 
 ### My current knowledge
 
@@ -23,13 +33,4 @@
   </a>
 </div>
 
-### Contacts
 
-<div>
-  <a href="https://instragram.com/ramones.bp" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/ramon-pilon" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
